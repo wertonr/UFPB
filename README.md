@@ -1,5 +1,5 @@
 # UFPB
-Materiais utilizados nas aulas ministradas de análise de dados em python para a disciplina de Estágio IV de Ciências Atuariais. Dessa maneira, estas aulas tem os seguintes objetivos:
+Materiais utilizados nas aulas de análise de dados em python ministradas para a disciplina de Estágio IV de Ciências Atuariais. Dessa maneira, estas aulas tem os seguintes objetivos:
 
 ## 1.Conceitos básicos de programação em python:
 * Função print;
