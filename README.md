@@ -7,9 +7,9 @@ Materiais utilizados nas aulas de análise de dados em python ministradas para a
 * Tipos de variáveis em python;
 * Função input;
 * Operadores booleanos;
-* Estruturas condicionais (IF, ELIF e ELSE)
-* Estruturas de repetição/Laços de repetição (While e For)
-* Criação de funções
+* Estruturas condicionais (IF, ELIF e ELSE);
+* Estruturas de repetição/Laços de repetição (While e For);
+* Criação de funções.
 
 ## 2. Aplicação do python na análise de dados
 
